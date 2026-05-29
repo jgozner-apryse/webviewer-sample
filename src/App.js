@@ -10,7 +10,7 @@ function App() {
     WebViewer(
       {
         path: '/webviewer/lib',
-        initialDoc: '/files/WebviewerDemoDoc.1.pdf',
+        initialDoc: '/files/WebviewerDemoDoc.pdf',
         licenseKey: "demo:1688745488452:7c640dad0300000000ff98c75e9e3a6477a0d966fddd63ac8543da906b",
         fullAPI: true
       },
